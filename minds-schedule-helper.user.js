@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Create anchors for class items on Minds' class scheduling system
 // @author       Charles Albert Martins dos Anjos (charles.ccomp@gmail.com
-// @match        https://www.managementminds.com.br/agendamento*
+// @match        *www.managementminds.com.br/agendamento*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=managementminds.com.br
 // @grant        none
 // ==/UserScript==
