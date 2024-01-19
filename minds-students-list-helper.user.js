@@ -46,4 +46,14 @@
         };
         },1000);
     }
+
+    var myDiv = document.querySelector ("#pesquisar");
+    if (myDiv) {
+        myDiv.addEventListener ("click", myfunc , false);
+    };
+    //implantar selectboxes
+    //modificar visualização de acordo com selectboxes
+    //criar seletor de data para URL
+    //persistir data do seletor de URL quando
+
 })();
